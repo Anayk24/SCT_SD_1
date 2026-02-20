@@ -22,3 +22,4 @@ This program lets users choose a conversion type from a menu and enter a value t
 
 ## Sample Output:
 
+<img width="1919" height="1017" alt="Image" src="https://github.com/user-attachments/assets/0094407d-57ef-48d5-af88-406b94b2d69b" />
